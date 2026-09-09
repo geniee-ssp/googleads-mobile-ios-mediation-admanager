@@ -27,8 +27,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GoogleMobileAdsMediationAdManager",
-            url: "https://github.com/geniee-ssp/googleads-mobile-ios-mediation-admanager/releases/download/13.7.0/GoogleMobileAdsMediationAdManager.13.7.0.0.zip",
-            checksum: "b1801c7e0d88d200a89266847992d6ee0dd41eeb5606983c98885e02021bd011"
+            url: "https://github.com/geniee-ssp/googleads-mobile-ios-mediation-admanager/releases/download/13.7.1/GoogleMobileAdsMediationAdManager.13.7.0.1.zip",
+            checksum: "4fe4cbd87e65e6262e9de2d955910ea8b979768094265749caf1e2228e54b9b4"
         )
     ]
 )

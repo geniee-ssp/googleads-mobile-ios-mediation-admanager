@@ -30,7 +30,7 @@ https://github.com/geniee-ssp/googleads-mobile-ios-mediation-admanager.git
 
 | Adapter version | SPM tag  | Google Mobile Ads SDK |
 | --------------- | -------- | --------------------- |
-| 13.7.0.0        | `13.7.0` | 13.7.0                |
+| 13.7.0.3        | `13.7.3` | 13.7.0                |
 
 The first three components of the adapter version match the Google Mobile Ads SDK
 version; the fourth is the adapter-only patch number.
